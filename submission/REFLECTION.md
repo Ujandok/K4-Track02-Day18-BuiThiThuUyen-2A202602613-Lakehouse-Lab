@@ -13,4 +13,4 @@ Bẫy thứ hai là nghĩ rằng chạy một lệnh là đủ. Trong lab, VACUU
 Cách phòng tránh: gom batch ngay ở writer; lên lịch đủ compaction, clustering, expiry, quét orphan có điều kiện tuổi file,
 và checkpoint; theo dõi kích thước file trung bình, cảnh báo khi file nhỏ hơn nhiều so với mục tiêu 128–512 MB.
 
-**AI:** dùng Claude Code để chạy lab, tìm lỗi đo đạc và soạn nháp giải thích. Chi tiết: [AI_USAGE.md](AI_USAGE.md).
+**AI:** dùng Claude Code tìm lỗi đo đạc giải thích. Chi tiết: [AI_USAGE.md](AI_USAGE.md).
